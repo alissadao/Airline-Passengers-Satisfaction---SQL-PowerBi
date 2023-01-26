@@ -1,6 +1,6 @@
 # Airline-Passengers-Satisfaction---SQL-PowerBi
 ***In this project, I will analyze and visualize my dataset using SQL and PowerBi.***
-***This dataset will provide me with precious information about the customers' experiences during their flights. The passengers will score from 0 to 5 to 12 services
+***This dataset will provide me with precious information about the customers' experiences during their flights. The passengers will score from 0 to 5 for 12 services
 in the airplane. The passengers vary from children, adults, the elderly, females, and males,....***
 
 # [View my dashboard](https://app.powerbi.com/links/_VmeztUEsa?ctid=6232b055-76b9-4c13-9b88-b562ae7db6fb&pbi_source=linkShare&bookmarkGuid=96bcfe13-38f4-4dd0-aeaf-8f8d38d04d89)
